@@ -4,7 +4,11 @@
 
 **Author's Organization:** Damascus High School Academy of Information
 
-### The [Challenge](Lesson_Plan_For_File_Carving.docx)
+### The Challenge
+
+Links to the various challenge files can be found above or an entire copy of this repository can be made using:
+
+```git clone https://github.com/PIVOT-Project/DigitalForensicsChallenge```
 
 ### Resources
 
@@ -14,4 +18,6 @@
 
 [Wireshark file carving challenge](challenge.pcapng)
 
-Please be sure to fill out our [survey](https://www.surveymonkey.com/r/8WFCZYJ) afterwards!
+### Our Survey
+
+Please be sure to fill out our [**SURVEY**](https://www.surveymonkey.com/r/8WFCZYJ) afterwards!
