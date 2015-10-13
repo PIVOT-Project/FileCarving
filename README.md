@@ -8,7 +8,7 @@
 
 Links to the various challenge files can be found above or an entire copy of this repository can be made using:
 
-```git clone https://github.com/PIVOT-Project/DigitalForensicsChallenge```
+```git clone https://github.com/PIVOT-Project/FileCarving```
 
 ### Resources
 
