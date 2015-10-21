@@ -12,7 +12,7 @@ Links to the various challenge files can be found above or an entire copy of thi
 
 ### Resources
 
-[Wireshark file carving video](File_Carving_using_Wireshark.mp4)
+[Wireshark file carving video on YouTube](https://youtu.be/BEd08qDYgGQ)
 
 ### Our Survey
 
