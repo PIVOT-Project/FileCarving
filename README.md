@@ -14,10 +14,6 @@ Links to the various challenge files can be found above or an entire copy of thi
 
 [Wireshark file carving video](File_Carving_using_Wireshark.mp4)
 
-[Wireshark file carving sample pcap](File_Carving_Lesson.pcapng)
-
-[Wireshark file carving challenge](challenge.pcapng)
-
 ### Our Survey
 
 Please be sure to fill out our [**SURVEY**](https://www.surveymonkey.com/r/8WFCZYJ) afterwards!
